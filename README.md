@@ -1,6 +1,6 @@
-# PromptFlow: AI-Powered Function Call Pipeline
+ AI-Powered Function Call Pipeline
 
-## 🔍 Overview
+## Overview
 
 **PromptFlow** is an AI-powered natural language pipeline that interprets user queries and converts them into a structured sequence of function calls. 
 It utilizes a language model (FLAN-Alpaca) to understand intents such as invoice summarization, calendar event creation, email sending, and file writing.
@@ -8,9 +8,9 @@ It utilizes a language model (FLAN-Alpaca) to understand intents such as invoice
 This project is implemented in Python using HuggingFace Transformers and is designed to be modular, interpretable, and testable.
 
 
-## 🧠 Project Workflow
+##  Project Workflow
 
-### 1. **User Input**
+### 1 **User Input**
 The user enters a natural language query, like:
 
 > "Get invoices for March, summarize them, and email me the report."
